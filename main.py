@@ -47,6 +47,6 @@ hide_menu_style = """
         #MainMenu {visibility: hidden;}
         </style>
         """
-# st.markdown(hide_menu_style, unsafe_allow_html=True)
-st.markdown("<br><hr><center>Made with ❤️ by <a href='mailto:odppawindtaore@gmail.com?subject=ChatGPT + DALL-E WebApp!&body=Please specify the issue you are facing with the app.'><strong>Prateek Ralhan</strong></a></center><hr>", unsafe_allow_html=True)
+st.markdown(hide_menu_style, unsafe_allow_html=True)
+st.markdown("<br><hr><center>Made with ❤️ by <a href='mailto:odppawindtaore@gmail.com?subject=DALL-E WebApp!&body=Please specify the issue you are facing with the app.'><strong>Master Data Sciences ESI</strong></a></center><hr>", unsafe_allow_html=True)
 st.markdown("<style> footer {visibility: hidden;} </style>", unsafe_allow_html=True)
